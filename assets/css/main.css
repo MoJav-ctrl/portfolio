@@ -141,6 +141,14 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 	}
+		h3.alt {
+			color: #001;
+		}
+
+			h3.alt strong {
+				font-weight: 700;
+				color: #000;
+			}
 
 	header {
 		margin: 0 0 2em 0;

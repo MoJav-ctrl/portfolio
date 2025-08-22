@@ -140,6 +140,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.5em;
+		padding: 0.5em 0;
 	}
 		h3.alt {
 			color: #001;
